@@ -5,4 +5,4 @@ Blazing is a stunning modern looking mobile ready responsive theme which provide
 <img src="https://scontent.fpnq7-1.fna.fbcdn.net/v/t1.0-9/95933650_578812739404251_9183534260974256128_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=QiQa4-IEDMQAX9v1a2A&_nc_ht=scontent.fpnq7-1.fna&oh=188dd1a12be30174a7f17acd7b840250&oe=5ED658FD">
 
 
-<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+  <span class='fltdon' style='float:left'>	Get us going by :</span> 	<a href="https://www.paypal.com/paypalme/blossomtheme" target="_blank"><img alt='Donate with PayPal button' border='0' name='submit' src='https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif' title='PayPal - The safer, easier way to pay online!'/></a>
